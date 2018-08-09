@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Lixo Consciente</string>
+    <string name="home">Lixo Consciente</string>
+    <string name="hello_blank_fragment"></string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Fechar</string>
+    <string name="action_settings">Home</string>
+    <string name="acCep">Informe seu Endereço</string>
+    <string name="txtCep">CEP:</string>
+    <string name="api_key">AIzaSyBLQR_8-xu_0noBjgmu4Pe9pybTa72twHI</string>
+    <string name="api_key2">AIzaSyBLQR_8-xu_0noBjgmu4Pe9pybTa72twHI</string>
+    <string name="acMapa">Localização do Caminhão</string>
+    <string name="btnBusca">Consultar</string>
+    <string name="delete">Deseja excluir o endereço cadastrado?</string>
+    <string name="add">Adicionar</string>
+    <string name="endereco">Endereço:</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="txtTitulo">Seus favoritos</string>
+    <string name="deletar">Excluir</string>
+    <string name="hintEndereco">Endereço completo</string>
+    <string name="gps_desligado">Seu GPS está desligado! Nós precisamos da sua localização, deseja ativar o GPS?</string>
+    <string name="btnSim">Sim</string>
+    <string name="btnNao">Não</string>
+    <string name="btnOk">Ok</string>
+    <string name="notificacaoTitulo">Prepare o lixo para coleta!</string>
+    <string name="notificacaoTexto">O caminhão está a menos de 1 KM de você!</string>
+    <string name="internet_desligada">Precisamos de uma conexão com a internet. Verifique sua conexão e tente novamente.</string>
+    <string name="txtTipoColeta">Tipo de Coleta desejada:</string>
+    <string name="actTipoColeta">Filtrar Coleta</string>
+    <string name="distancia">Distância Desejada (KM):</string>
+</resources>
